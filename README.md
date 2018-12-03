@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/160259930.svg)](https://zenodo.org/badge/latestdoi/160259930)
+
 <img src="https://github.com/wkentaro/labelme/blob/master/labelme/icons/icon.png?raw=true" align="right" />
 
 # labelme: Image Polygonal Annotation with Python
